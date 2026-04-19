@@ -1,0 +1,28 @@
+# 🔐 Variables de entorno (MUY IMPORTANTE)
+.env
+
+# 🧠 Índice vectorial (se genera automáticamente)
+faiss_index/
+
+# 🐍 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📦 Entornos virtuales
+venv/
+.env/
+.venv/
+
+# 🧪 Archivos temporales
+*.log
+*.tmp
+
+# 💻 Sistema operativo
+.DS_Store
+Thumbs.db
+
+# 🧾 Archivos de IDE
+.vscode/
+.idea/
